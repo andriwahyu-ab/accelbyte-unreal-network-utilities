@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.5.1](https://bitbucket.org/andriwahyu/justice-ue4-network-utilities-plugin/branches/compare/2.5.1%0D2.5.0) (2022-09-05)
+
+
+### Features
+
+* hotfix ([f4d7006](https://bitbucket.org/andriwahyu/justice-ue4-network-utilities-plugin/commits/f4d7006e402926e0efeef45d8f5a82efe32ae517))
+
 ## [2.5.0](https://bitbucket.org/andriwahyu/justice-ue4-network-utilities-plugin/branches/compare/2.5.0%0D2.4.0) (2022-09-05)
 
 

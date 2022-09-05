@@ -29,4 +29,4 @@ TurnServerPassword="accelbyte"
 +NetDriverDefinitions=(DefName="GameNetDriver",DriverClassName="AccelByteNetworkUtilities.IpNetDriverAccelByte",DriverClassNameFallback="OnlineSubsystemUtils.IpNetDriver")
 ```
 
-## testing release
+## testing release hotfix
